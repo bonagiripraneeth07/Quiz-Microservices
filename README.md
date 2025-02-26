@@ -1,0 +1,2 @@
+A Quiz Microservices application built using Java and Spring Boot, designed for creating, managing, and taking quizzes.
+The system follows a microservices architecture for scalability and flexibility, with separate services handling question management, quiz generation, and result evaluation. Communication between services is facilitated via REST APIs, and data is efficiently managed using PostgreSQL.
